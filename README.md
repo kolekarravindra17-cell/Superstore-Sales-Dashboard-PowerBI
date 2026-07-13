@@ -135,9 +135,6 @@ Helps identify high-performing states.
 - Business Intelligence
 - Data Visualization
 ---
-# 📷 Dashboard Preview
-![Dashboard](Dashboard.png)
----
 # 📬 Connect with Me
 **Ravindra Kolekar**
 
